@@ -14,6 +14,7 @@ public class HelloWorld {
         System.out.println("master Git5");
         System.out.println("hot-fix Git4");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 
 }
